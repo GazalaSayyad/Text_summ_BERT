@@ -1,0 +1,5 @@
+spacy==3.0.5
+transformers==4.9.2
+bert-extractive-summarizer==0.10.1
+murmurhash==1.0.5
+sumy==0.9.0
